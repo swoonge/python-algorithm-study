@@ -1,4 +1,4 @@
-# PyAlgoLab (Python Algorithm Laboratory)
+# Python Algorithm Study
 
 파이썬을 활용한 알고리즘 문제 풀이, 문법 연구, 그리고 실험을 위한 레포지토리입니다.
 
